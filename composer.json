@@ -1,0 +1,11 @@
+{
+    "name": "delacruz/student-management",
+    "description": "Basic Student Management System",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mivel dela cruz"
+        }
+    ],
+    "require": {}
+}
